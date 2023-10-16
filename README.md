@@ -1,2 +1,2 @@
 # code-six
-Correcting a debug code. 
+Correcting a bugged code. 
